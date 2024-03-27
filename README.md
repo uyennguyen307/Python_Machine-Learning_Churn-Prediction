@@ -79,5 +79,9 @@ Apply the Exploratory Data Analysis (EDA) method to detect the patterns/behavior
 - With people who complained => Reaching out to them to get their feedback, identify and analyze common complaints, fix underlying problems and offer solutions as well as offer them voucher
 - Offer customers other products for cross-selling or up sell customer
 
-
+### 2. Build the Machine Learning model for predicting churned users.
+![image](https://github.com/uyennguyen307/Python_Machine-Learning_Churn-Prediction/assets/162019618/db19676c-c9c0-46a3-9d55-80c38968ae1e)
+![image](https://github.com/uyennguyen307/Python_Machine-Learning_Churn-Prediction/assets/162019618/e43dc19b-e247-45fc-be26-7878ada30619)
+![image](https://github.com/uyennguyen307/Python_Machine-Learning_Churn-Prediction/assets/162019618/ad33c491-49e3-49fe-b626-2c6e6cabe8ee)
+![image](https://github.com/uyennguyen307/Python_Machine-Learning_Churn-Prediction/assets/162019618/c08a2e26-e684-4b31-b8cb-b8275a45f68b)
 
