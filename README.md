@@ -29,11 +29,9 @@ Replace the missing value with 0 or the median
 % data labeled 1 on total data is 16.9%, it's quite imbalanced => process Machine Learning model as normal, after processing, if model ko như expect, enhance data labeled 1 on total data rate or input more data
 
 ## Business Question Solving
-### 1. What are the patterns/behaviors of churned users? What are your suggestions to the company to reduce churned users?
-
-![image](https://github.com/uyennguyen307/uyennguyen307-Python_Machine-Learning_Churn-Prediction/assets/162019618/58771619-1068-4456-8c56-6e8ff6126074)
 
 Apply the Exploratory Data Analysis (EDA) method to detect the patterns/behavior of churned users and pick impactful fields for the Machine Learning Model
+![image](https://github.com/uyennguyen307/uyennguyen307-Python_Machine-Learning_Churn-Prediction/assets/162019618/58771619-1068-4456-8c56-6e8ff6126074)
 
 #### Tenure fields
 ![image](https://github.com/uyennguyen307/uyennguyen307-Python_Machine-Learning_Churn-Prediction/assets/162019618/1211975a-90b5-42e9-9e3b-4248ac91d4dc)
@@ -63,7 +61,26 @@ Apply the Exploratory Data Analysis (EDA) method to detect the patterns/behavior
 ![image](https://github.com/uyennguyen307/uyennguyen307-Python_Machine-Learning_Churn-Prediction/assets/162019618/2da5a337-ed6a-46f8-92fd-ddceef5d9e53)
 ![image](https://github.com/uyennguyen307/uyennguyen307-Python_Machine-Learning_Churn-Prediction/assets/162019618/54179c07-dd4d-465e-bfff-217ec97f6df7)
 
-
-
 #### Cashback Amount
 ![image](https://github.com/uyennguyen307/uyennguyen307-Python_Machine-Learning_Churn-Prediction/assets/162019618/d1d374a1-8e81-44da-9634-2a53a3d1a50c)
+
+### 1. What are the patterns/behaviors of churned users? What are your suggestions to the company to reduce churned users?
+#### The behavior of churned users
+- The new customers who have transactions after creating an account 0-1 day have been ability to churn
+- People who have a complaint
+- Customers who buy mobile phones tend to churn
+- The higher the City Tier, the lower the churn level
+- The more accounts a customer registers, the more likely it is to churn
+- The closer the customer's last order date gets, the higher the churn rate
+- Single people are more likely to churn than married status
+- The less cashback customers receive, the higher the churn rate
+
+#### There are some solutions
+
+- Sending emails, reminding customers about upcoming promotions and offering special discounts to new customers
+- Building a complaint-handling process, receiving, find the cause and resolving complaints
+- With people who complained => Reaching out to them to get their feedback, identify and analyze common complaints, fix underlying problems and offer solutions as well as offer them voucher
+- Offer customers other products for cross-selling or up sell customer
+
+
+
